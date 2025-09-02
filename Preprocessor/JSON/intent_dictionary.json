@@ -1,0 +1,353 @@
+{
+    "get_address": [
+        "Care este adresa centrală a UTCN din Cluj-Napoca?"
+    ],
+    "portal_login": [
+        "Unde mă autentific în portalul studenților (SINU)?"
+    ],
+    "view_current_session_grades": [
+        "Cum îmi văd notele la sesiunea curentă?"
+    ],
+    "how_pay_fees_online": [
+        "Pot plăti taxele universității online?"
+    ],
+    "admission_documents_and_calendar": [
+        "Unde găsesc ghidul de înscriere și calendarul admiterii?"
+    ],
+    "confirm_place": [
+        "Cum confirm locul după rezultate (buget/taxă)?"
+    ],
+    "current_tuition_fees": [
+        "Unde văd lista taxelor universitare curente la UTCN?"
+    ],
+    "pay_fees_offline": [
+        "Cum plătesc taxele dacă nu pot online?"
+    ],
+    "seasonal_yearly_tuition_discounts": [
+        "Există reducere pentru plata integrală a taxei pe semestru/an?"
+    ],
+    "erasmus_info": [
+        "Unde găsesc informații despre Erasmus+ la UTCN?"
+    ],
+    "erasmus_schedule": [
+        "Care este programul de lucru al Biroului Erasmus/IRO?"
+    ],
+    "erasmus_contact_email": [
+        "Ce adrese de email pot folosi pentru Erasmus/International?"
+    ],
+    "ecampus_about_services": [
+        "Ce este eCampus și ce servicii digitale oferă?"
+    ],
+    "m365_benefits": [
+        "Ce beneficii include contul M365 instituțional UTCN?"
+    ],
+    "library_info": [
+        "Unde găsesc informații despre Biblioteca UTCN?"
+    ],
+    "request_dorm": [
+        "Cum solicit cazare la cămin?"
+    ],
+    "eligibility_dorm": [
+        "Cine poate beneficia de cazare în cămine?"
+    ],
+    "dorm_fees": [
+        "Unde găsesc tarifele de cazare și regulamentele căminelor?"
+    ],
+    "online_bachelor_master_admission": [
+        "Cum mă înscriu la licență/disertație?"
+    ],
+    "finalization_exam_procedure": [
+        "Ce fac după promovarea examenului de finalizare?"
+    ],
+    "find_student_schedule": [
+        "Unde găsesc orarul meu?"
+    ],
+    "scholarships_types": [
+        "Ce tipuri de burse există la UTCN?"
+    ],
+    "apply_social_scholarship": [
+        "Cum aplic pentru bursă socială?"
+    ],
+    "admission_facultate_arhitectura_si_urbanism": [
+        "Unde găsesc informații de admitere pentru Facultatea de Arhitectură și Urbanism?"
+    ],
+    "schedule_facultate_arhitectura_si_urbanism": [
+        "Unde văd orarul la Facultatea de Arhitectură și Urbanism?"
+    ],
+    "contact_secretariat_facultate_arhitectura_si_urbanism": [
+        "Cum contactez secretariatul Facultatea de Arhitectură și Urbanism?"
+    ],
+    "admission_automatica_si_calculatoare": [
+        "Unde găsesc informații de admitere pentru Facultatea de Automatică și Calculatoare?"
+    ],
+    "schedule_automatica_si_calculatoare": [
+        "Unde văd orarul la Facultatea de Automatică și Calculatoare?"
+    ],
+    "contact_secretariat_automatica_si_calculatoare": [
+        "Cum contactez secretariatul Facultatea de Automatică și Calculatoare?"
+    ],
+    "admission_mecatronica_si_mecanica": [
+        "Unde găsesc informații de admitere pentru Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică?"
+    ],
+    "schedule_mecatronica_si_mecanica": [
+        "Unde văd orarul la Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică?"
+    ],
+    "contact_secretariat_mecatronica_si_mecanica": [
+        "Cum contactez secretariatul Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică?"
+    ],
+    "admission_constructii": [
+        "Unde găsesc informații de admitere pentru Facultatea de Construcții?"
+    ],
+    "schedule_facultate_constructii": [
+        "Unde văd orarul la Facultatea de Construcții?"
+    ],
+    "contact_secretariat_facultate_constructii": [
+        "Cum contactez secretariatul Facultatea de Construcții?"
+    ],
+    "admission_facultate_electronica_telecomunicatii_tehnologia_informatiei": [
+        "Unde găsesc informații de admitere pentru Facultatea de Electronică, Telecomunicații și Tehnologia Informației?"
+    ],
+    "schedule_facultate_electronica_telecomunicatii_tehnologia_informatiei": [
+        "Unde văd orarul la Facultatea de Electronică, Telecomunicații și Tehnologia Informației?"
+    ],
+    "contact_secretariat_facultate_electronica_telecomunicatii_tehnologia_informatiei": [
+        "Cum contactez secretariatul Facultatea de Electronică, Telecomunicații și Tehnologia Informației?"
+    ],
+    "admission_facultate_ingineria_materialelor_si_a_mediului": [
+        "Unde găsesc informații de admitere pentru Facultatea de Ingineria Materialelor și a Mediului?"
+    ],
+    "schedule_facultate_ingineria_materialelor_si_a_mediului": [
+        "Unde văd orarul la Facultatea de Ingineria Materialelor și a Mediului?"
+    ],
+    "contact_secretariat_facultate_ingineria_materialelor_si_a_mediului": [
+        "Cum contactez secretariatul Facultatea de Ingineria Materialelor și a Mediului?"
+    ],
+    "admission_facultate_ingineria_instalatiilor": [
+        "Unde găsesc informații de admitere pentru Facultatea de Inginerie a Instalațiilor?"
+    ],
+    "schedule_facultate_ingineria_instalatiilor": [
+        "Unde văd orarul la Facultatea de Inginerie a Instalațiilor?"
+    ],
+    "contact_facultate_ingineria_instalatiilor": [
+        "Cum contactez secretariatul Facultatea de Inginerie a Instalațiilor?"
+    ],
+    "admission_facultate_inginerie_electrica": [
+        "Unde găsesc informații de admitere pentru Facultatea de Inginerie Electrică?"
+    ],
+    "schedule_facultate_inginerie_electrica": [
+        "Unde văd orarul la Facultatea de Inginerie Electrică?"
+    ],
+    "contact_secretariat_facultate_inginerie_electrica": [
+        "Cum contactez secretariatul Facultatea de Inginerie Electrică?"
+    ],
+    "admission_facultate_inginerie_industriala_robotica_managementul_productiei": [
+        "Unde găsesc informații de admitere pentru Facultatea de Inginerie Industrială, Robotică și Managementul Producției?"
+    ],
+    "schedule_facultate_inginerie_industriala_robotica_managementul_productiei": [
+        "Unde văd orarul la Facultatea de Inginerie Industrială, Robotică și Managementul Producției?"
+    ],
+    "contact_secretariat_facultate_inginerie_industriala_robotica_managementul_productiei": [
+        "Cum contactez secretariatul Facultatea de Inginerie Industrială, Robotică și Managementul Producției?"
+    ],
+    "admission_cunbm_facultate_inginerie": [
+        "Unde găsesc informații de admitere pentru CUNBM – Facultatea de Inginerie?"
+    ],
+    "schedule_cunbm_facultate_inginerie": [
+        "Unde văd orarul la CUNBM – Facultatea de Inginerie?"
+    ],
+    "contact_secretariat_cunbm_facultate_inginerie": [
+        "Cum contactez secretariatul CUNBM – Facultatea de Inginerie?"
+    ],
+    "admission_cunbm_facultate_litere": [
+        "Unde găsesc informații de admitere pentru CUNBM – Facultatea de Litere?"
+    ],
+    "schedule_cunbm_facultate_litere": [
+        "Unde văd orarul la CUNBM – Facultatea de Litere?"
+    ],
+    "contact_secretariat_cunbm_facultate_litere": [
+        "Cum contactez secretariatul CUNBM – Facultatea de Litere?"
+    ],
+    "admission_cunbm_facultate_stiinte": [
+        "Unde găsesc informații de admitere pentru CUNBM – Facultatea de Științe?"
+    ],
+    "schedule_cunbm_facultate_stiinte": [
+        "Unde văd orarul la CUNBM – Facultatea de Științe?"
+    ],
+    "contact_secretariat_cunbm_facultate_stiinte": [
+        "Cum contactez secretariatul CUNBM – Facultatea de Științe?"
+    ],
+    "recover_password": [
+        "Cum îmi recuperez parola contului instituțional?"
+    ],
+    "request_documents": [
+        "Cum solicit adeverințe sau documente de la secretariat?"
+    ],
+    "scolarship_application_interval": [
+        "Cum aflu când se depun dosarele de burse?"
+    ],
+    "view_academic_record_SINU": [
+        "Pot vedea situația școlară în SINU?"
+    ],
+    "admission_portal": [
+        "Unde intru pentru înscriere la admitere?"
+    ],
+    "student_portal": [
+        "Care e linkul pentru portalul studenților?"
+    ],
+    "university_extensions": [
+        "Ce extensii universitare are UTCN?"
+    ],
+    "extension_alba": [
+        "Care este adresa Extensiei Alba Iulia?"
+    ],
+    "extension_bistrita_address": [
+        "Care este adresa Extensiei Bistrița?"
+    ],
+    "extension_satu_mare_address": [
+        "Care este adresa Extensiei Satu Mare?"
+    ],
+    "extension_zalau_address": [
+        "Care este adresa Extensiei Zalău?"
+    ],
+    "payment_office_location": [
+        "Unde sunt casieriile pentru plata taxelor UTCN?"
+    ],
+    "payment_online": [
+        "Pot plăti taxele de restanță online?"
+    ],
+    "MATLAB_student_access": [
+        "UTCN oferă acces MATLAB/Simulink pentru studenți?"
+    ],
+    "address_facultate_inginerie": [
+        "Care este adresa Facultății de Inginerie (CUNBM)?"
+    ],
+    "address_facultate_stiinte": [
+        "Care este adresa Facultății de Științe (CUNBM)?"
+    ],
+    "contact_facultate_stiinte": [
+        "Cum contactez Facultatea de Științe (CUNBM)?"
+    ],
+    "specializations_facultate_arhitectura_si_urbanism": [
+        "Ce specializări oferă Facultatea de Arhitectură și Urbanism?"
+    ],
+    "exams_and_resits_facultate_arhitectura_si_urbanism": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Arhitectură și Urbanism?"
+    ],
+    "specializations_facultate_automatica_si_calculatoare": [
+        "Ce specializări oferă Facultatea de Automatică și Calculatoare?"
+    ],
+    "exams_and_resits_facultate_automatica_si_calculatoare": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Automatică și Calculatoare?"
+    ],
+    "specializations_facultate_autovehicule_mecatronica_si_mecanica": [
+        "Ce specializări oferă Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică?"
+    ],
+    "exams_and_resits_facultate_mecatronica_si_mecanica": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Autovehicule Rutiere, Mecatronică și Mecanică?"
+    ],
+    "specializations_facultate_constructii": [
+        "Ce specializări oferă Facultatea de Construcții?"
+    ],
+    "exams_and_resits_facultate_constructii": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Construcții?"
+    ],
+    "specializations_facultate_electronica_telecomunicatii_tehnologia_informatiei": [
+        "Ce specializări oferă Facultatea de Electronică, Telecomunicații și Tehnologia Informației?"
+    ],
+    "exams_and_resits_facultate_electronica_telecomunicatii_tehnologia_informatiei": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Electronică, Telecomunicații și Tehnologia Informației?"
+    ],
+    "specializations_facultate_ingineria_materialelor_si_a_mediului": [
+        "Ce specializări oferă Facultatea de Ingineria Materialelor și a Mediului?"
+    ],
+    "exams_and_resits_facultate_ingineria_materialelor_si_a_mediului": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Ingineria Materialelor și a Mediului?"
+    ],
+    "specializations_facultate_ingineria_instalatiilor": [
+        "Ce specializări oferă Facultatea de Inginerie a Instalațiilor?"
+    ],
+    "exams_and_resits_facultate_ingineria_instalatiilor": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Inginerie a Instalațiilor?"
+    ],
+    "specializations_facultate_inginerie_electrica": [
+        "Ce specializări oferă Facultatea de Inginerie Electrică?"
+    ],
+    "exams_and_resits_facultate_inginerie_electrica": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Inginerie Electrică?"
+    ],
+    "specializations_facultate_inginerie_industriala_robotica_managementul_productiei": [
+        "Ce specializări oferă Facultatea de Inginerie Industrială, Robotică și Managementul Producției?"
+    ],
+    "exams_and_resits_facultate_inginerie_industriala_robotica_managementul_productiei": [
+        "Cum urmăresc anunțurile de examene și reexaminări la Facultatea de Inginerie Industrială, Robotică și Managementul Producției?"
+    ],
+    "specializations_facultate_inginerie": [
+        "Ce specializări oferă CUNBM – Facultatea de Inginerie?"
+    ],
+    "exams_and_resits_cunbm_facultate_inginerie": [
+        "Cum urmăresc anunțurile de examene și reexaminări la CUNBM – Facultatea de Inginerie?"
+    ],
+    "specializations_facultate_litere": [
+        "Ce specializări oferă CUNBM – Facultatea de Litere?"
+    ],
+    "exams_and_resits_cunbm_facultate_litere": [
+        "Cum urmăresc anunțurile de examene și reexaminări la CUNBM – Facultatea de Litere?"
+    ],
+    "specializations_cunbm_facultate_stiinte": [
+        "Ce specializări oferă CUNBM – Facultatea de Științe?"
+    ],
+    "exams_and_resits_facultate_stiinte": [
+        "Cum urmăresc anunțurile de examene și reexaminări la CUNBM – Facultatea de Științe?"
+    ],
+    "appointment_exams_and_resits": [
+        "Unde văd programările de examene și reexaminări?"
+    ],
+    "steps_bachelors_enrollment": [
+        "Ce pași trebuie să urmez pentru înscrierea la licență?"
+    ],
+    "howto_obtain_clearance": [
+        "Cum obțin lichidarea după finalizarea studiilor?"
+    ],
+    "dorm_documents_requirements": [
+        "Ce documente sunt necesare la cazarea în cămin?"
+    ],
+    "steps_dorm_extension_accross_year": [
+        "Cum procedez pentru prelungirea cazării pe parcursul anului?"
+    ],
+    "obtaining_student_id_and_validation_sticker": [
+        "Cum obțin legitimația de student și autocolantele de validare?"
+    ],
+    "obtaining_student_id": [
+        "Cum obțin legitimația de student?"
+    ],
+    "erasmus_outgoing_program_steps": [
+        "Care sunt pașii pentru o mobilitate Erasmus outgoing?"
+    ],
+    "internship_guide": [
+        "Unde găsesc informații despre practică (internship) la facultatea mea?"
+    ],
+    "career_counseling_doesitexist": [
+        "Există un centru de consiliere în carieră la UTCN?"
+    ],
+    "student_organizations_enrollment": [
+        "Cum mă înscriu în organizații studențești la UTCN?"
+    ],
+    "gdpr": [
+        "Unde găsesc informații despre protecția datelor (GDPR) la UTCN?"
+    ],
+    "certificates_or_documents_solicitation_email": [
+        "Pot solicita adeverințe sau documente prin email?"
+    ],
+    "name_address_update": [
+        "Cum actualizez numele/adresa în evidențele UTCN?"
+    ],
+    "exam_required_documents": [
+        "Ce documente trebuie să am asupra mea la examene?"
+    ],
+    "study_programs_in_english": [
+        "Există programe de studiu în limba engleză la UTCN?"
+    ],
+    "legal_documents_for_application_files": [
+        "Cum obțin documente legalizate/certificate (copii, traduceri) pentru dosare?"
+    ]
+}
